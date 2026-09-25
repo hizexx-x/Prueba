@@ -1,0 +1,3 @@
+He aprendido a vincular el github
+he aprendido comandos de git
+he aprendido a actualizar un repositorio con git
