@@ -4,3 +4,5 @@
 - Practicas en Git
 - Ejercicios de clase
 - Proyecto 2ºSMR
+
+## Segunda sesion de ejercicios de git
