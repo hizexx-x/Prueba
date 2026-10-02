@@ -1,0 +1,2 @@
+Entre el primer git status y el segundo observamos que el primero indica que ha habido una
+modificación y el segundo despues del git add . nos indica que la modificación se ha realizado correctamente
